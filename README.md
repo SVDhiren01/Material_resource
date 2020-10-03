@@ -1,6 +1,6 @@
 # Material_resource
 This is a web application where the faculty can upload study materials, assignments, etc and students can view the materials depending on the course chosen.
-Here the backend hasn't been implemented.
+Here the backend hasn't been implemented completely.
 But a few web pages have been hosted on the localhost using NodeJs/ExpressJs.
 
 There is a landing page which gives us options to select either login/signup/demo.
