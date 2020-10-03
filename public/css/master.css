@@ -1,0 +1,61 @@
+body{
+  background-color: #01273b;
+  border-top: 5mm solid #48dff0;
+  font-family: calibri;
+}
+
+h1, h2{
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+div{
+  text-align: center;
+}
+
+p{
+  color: white;
+  font-family: "calibri";
+  font-weight: bold;
+  text-align: center;
+}
+
+form{
+  text-align: center;
+}
+
+span{
+  color: red;
+}
+
+#btn{
+  margin-top: 16px;
+  background-color: #e0840b;
+  color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px 25px;
+}
+
+#one{
+  background-color: #1a9927;
+}
+
+#two{
+  background-color: #db1f1f;
+}
+
+#three{
+  background-color: #e0840b;
+}
+
+a{
+  text-align: center;
+  color: white;
+  padding: 10px 25px;
+  margin: 16px auto;
+  text-decoration: none;
+  border: 2px solid black;
+  border-radius: 5px;
+}
